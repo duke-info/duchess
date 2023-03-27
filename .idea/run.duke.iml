@@ -3,9 +3,10 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/.duke/modules/run.duke">
-      <sourceFolder url="file://$MODULE_DIR$/.duke/modules/run.duke" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/.duke/modules/run.duke" isTestSource="true" />
     </content>
-    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="configuration" />
+    <orderEntry type="inheritedJdk" />
   </component>
 </module>
