@@ -1,3 +1,6 @@
+[submodule ".duke/basics"]
+	path = .duke/basics
+	url = https://github.com/duke-info/basics.git
 [submodule ".duke/modules/run.duke"]
 	path = .duke/modules/run.duke
 	url = https://github.com/duke-info/run.duke.git
